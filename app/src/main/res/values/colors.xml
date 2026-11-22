@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Colours used outside Compose (launcher icon, window background before Compose draws).
+     In-app colours live in ui/theme/Color.kt. -->
+<resources>
+    <color name="cafe_espresso">#FF3E2723</color>
+    <color name="cafe_latte">#FFC8A27A</color>
+    <color name="cafe_cream">#FFFFF8F0</color>
+    <color name="ic_launcher_background">#FF6F4E37</color>
+</resources>

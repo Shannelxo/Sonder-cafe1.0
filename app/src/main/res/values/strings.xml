@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sonder Cafe</string>
+
+    <!-- Notifications -->
+    <string name="notification_channel_orders_name">Order updates</string>
+    <string name="notification_channel_orders_description">Tells you when your order status changes</string>
+    <string name="notification_order_title">Order #%1$d</string>
+    <string name="notification_status_pending">We\'ve received your order.</string>
+    <string name="notification_status_preparing">Your order is being prepared.</string>
+    <string name="notification_status_ready">Your order is ready for collection.</string>
+    <string name="notification_status_collected">Order collected. Enjoy!</string>
+</resources>

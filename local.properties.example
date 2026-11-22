@@ -1,0 +1,11 @@
+# Copy the entries below into local.properties (which is git-ignored).
+# Android Studio adds sdk.dir automatically; don't copy that line from here.
+#
+# Demo admin account, created on first launch in debug builds only.
+# Leave both blank or remove them if you don't need the admin console.
+# Use your own password and never commit it.
+
+sdk.dir=/path/to/Android/Sdk
+
+ADMIN_SEED_EMAIL=admin@sondercafe.example
+ADMIN_SEED_PASSWORD=change-me-to-something-strong
